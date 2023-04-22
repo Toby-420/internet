@@ -1,2 +1,1 @@
-# internet
-Easy way to reset all connected internet adaptors in Windows
+If Windows Connectivity Troubleshooter is being incredibly slow and you just want it to reset your adaptors (for bad wifi cards and such), just use this batch file and it will do it much faster. Usually takes a few seconds
